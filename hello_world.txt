@@ -2,3 +2,5 @@ git_test
 adding some text here
 some more text added here
 coding is shit
+
+checking git commit window pop-up
